@@ -17,7 +17,7 @@ public class MyController {
 
     @GetMapping("/route2")
     public String route2(){
-        return "<h1>Welcome to route2</h1>";
+        return "<h1>This is currently down and will be available soon..!! Stay tuned...!!!</h1>";
     }
 
 

@@ -15,4 +15,10 @@ public class MyController {
         return "<h1>Welcome to route1</h1>";
     }
 
+    @GetMapping("/route2")
+    public String route2(){
+        return "<h1>Welcome to route2</h1>";
+    }
+
+
 }
